@@ -1,4 +1,4 @@
-# Two-population Model of SARS-CoV-2 within a University and Community Populations for Whitman County, WA
+# Two-population Model of SARS-CoV-2 within a University and Community Populations for Pullman, WA
 A repository for the code and data for the "Estimating SARS-CoV-2 transmission parameters between coinciding outbreaks in a university population and the surrounding community" manuscript. 
 
 
