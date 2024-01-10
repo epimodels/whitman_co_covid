@@ -26,5 +26,5 @@ To reproduce the plots, the datasets generated from the EpiEstim package are pro
 ## Figure 4. Posterior Distributions & Figure S1. Trace Plots
 "Figure 4 - PostDist_TracePlots.R" produces both the trace plots and the posterior distribution figures. 
 
-The MCMC results are provided "mcmc_results.csv" for the analysis. These are the results produced by the output of the parameter estimation using pMCMC program. 
+The MCMC results are provided "mcmc_results.csv" for the analysis. These are the results produced by the output of the parameter estimation using pMCMC program. Note this file is compressed in the GitHub repository, and will need to be unzipped before use.
 
